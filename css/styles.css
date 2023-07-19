@@ -42,6 +42,59 @@ body {
     color: white;
   }
   
+
+.munjo a{
+  margin: 2%;
+  position: relative;
+  right: 100px;
+  top: 100px;
+}
+
+.munjo img{
+  width: 400px;
+  height: 230px;
+  border-radius: 30px;
+}
+
+.fresh a{
+  margin: 2%;
+  position: relative;
+  flex-wrap: wrap;
+  left: 100px;
+  top: 100px;
+}
+
+.fresh img{
+  width: 400px;
+  height: 230px;
+  border-radius: 30px;
+}
+
+.javeriana a{
+  margin: 2%;
+  position: relative;
+  right: 100px;
+  top: 200px;
+}
+
+.javeriana img{
+  width: 400px;
+  height: 230px;
+  border-radius: 30px;
+}
+
+.bosque a{
+  margin: 2%;
+  position: relative;
+  left: 100px;
+  top: 200px;
+}
+
+.bosque img{
+  width: 400px;
+  height: 230px;
+  border-radius: 30px;
+}
   
   /* Style the h1 heading */
   h1 {
@@ -50,6 +103,7 @@ body {
     font-weight: bold;
     font-size: 30px;
     margin-bottom: 50px;
+    margin-top: 50px;
   }
   
   /* Style the main section */
